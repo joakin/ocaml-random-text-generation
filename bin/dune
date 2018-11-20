@@ -1,0 +1,3 @@
+(executable
+ (name random_text_cli)
+ (libraries lib))
